@@ -8,3 +8,4 @@
 # [JNZ] Modified 23-Sep-2004
 #
 # Written by John Zaitseff and released into the public domain.
+[ ! -s ~/.config/mpd/pid ] && mpd

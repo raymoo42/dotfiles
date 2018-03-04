@@ -34,6 +34,7 @@
         <value type="int" value="1"/>
         <value type="int" value="6"/>
         <value type="int" value="2"/>
+        <value type="int" value="7"/>
         <value type="int" value="3"/>
         <value type="int" value="5"/>
         <value type="int" value="4"/>
@@ -81,6 +82,7 @@
       <property name="names-visible" type="array">
         <value type="string" value="thunar"/>
         <value type="string" value="vlc"/>
+        <value type="string" value="qmpdclient"/>
         <value type="string" value="networkmanager applet"/>
         <value type="string" value="network"/>
         <value type="string" value="benachrichtigungsdienst für aktualisierungen"/>
@@ -89,6 +91,7 @@
         <value type="string" value="blueman-applet"/>
         <value type="string" value="update-notifier"/>
         <value type="string" value="netzwerk-manager-applet"/>
+        <value type="string" value="sonata"/>
       </property>
     </property>
     <property name="plugin-6" type="string" value="tasklist"/>
@@ -96,6 +99,7 @@
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="false"/>
     </property>
+    <property name="plugin-7" type="string" value="xfce4-mpc-plugin"/>
   </property>
   <property name="configver" type="int" value="2"/>
 </channel>
