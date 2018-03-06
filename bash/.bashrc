@@ -116,21 +116,11 @@ if ! shopt -oq posix; then
   fi
 fi
 
-# Load Kubernetes bash files
-if [ -f ~/.bashrc_k8s ];then
-    source ~/.bashrc_k8s
-fi
-
-# Load completion for openshift
-if [ -f ~/.bashrc_oc ];then
-    eval $(minishift oc-env)
-    source ~/.bashrc_oc
+# Load completion for openshift client binary
+if [ -x $( command -v oc ) ];then
+    source <(oc completion bash)
 fi
 
 # Golang
 export GOPATH=~/.go
 export PATH=$PATH:$GOPATH/bin
-
-#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
-export SDKMAN_DIR="/home/stu/.sdkman"
-[[ -s "/home/stu/.sdkman/bin/sdkman-init.sh" ]] && source "/home/stu/.sdkman/bin/sdkman-init.sh"
