@@ -38,7 +38,6 @@
       <property name="&lt;Alt&gt;F3" type="empty">
         <property name="startup-notify" type="bool" value="true"/>
       </property>
-      <property name="&lt;Alt&gt;F1" type="string" value="xfce4-popup-applicationsmenu"/>
       <property name="&lt;Alt&gt;F2" type="empty">
         <property name="startup-notify" type="bool" value="true"/>
       </property>
@@ -46,12 +45,12 @@
       <property name="&lt;Control&gt;&lt;Alt&gt;Escape" type="string" value="xkill"/>
       <property name="Print" type="string" value="xfce4-screenshooter -f"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;l" type="string" value="xflock4"/>
-      <property name="XF86Mail" type="string" value="exo-open --launch MailReader"/>
       <property name="XF86WWW" type="string" value="exo-open --launch WebBrowser"/>
       <property name="XF86Calculator" type="string" value="galculator"/>
       <property name="override" type="bool" value="true"/>
       <property name="Super_L" type="string" value="/usr/bin/xfce4-popup-whiskermenu"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;t" type="string" value="exo-open --launch TerminalEmulator"/>
+      <property name="&lt;Shift&gt;F12" type="string" value="guake"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
