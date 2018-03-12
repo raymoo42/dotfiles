@@ -1,5 +1,5 @@
 favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,exo-web-browser.desktop
-recent=exo-terminal-emulator.desktop,sonata.desktop,exo-file-manager.desktop,blender.desktop,exo-web-browser.desktop,jetbrains-idea-ce.desktop,firefox.desktop,virt-manager.desktop,code.desktop
+recent=jetbrains-idea-ce.desktop,exo-file-manager.desktop,exo-web-browser.desktop,guake-prefs.desktop,guake.desktop,vlc.desktop,exo-terminal-emulator.desktop,xfce-ui-settings.desktop,synaptic.desktop,atom.desktop
 button-title=Menü
 button-icon=classicmenu-indicator-dark
 button-single-row=false
