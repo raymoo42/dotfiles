@@ -1,5 +1,5 @@
 favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,exo-mail-reader.desktop,exo-web-browser.desktop
-recent=fedora-release-notes.desktop,exo-web-browser.desktop,exo-file-manager.desktop,exo-terminal-emulator.desktop
+recent=exo-web-browser.desktop,exo-file-manager.desktop,exo-terminal-emulator.desktop
 button-title=Anwendungen
 button-icon=webtorrent-desktop
 button-single-row=false
@@ -19,8 +19,8 @@ display-recent-default=false
 position-search-alternate=true
 position-commands-alternate=false
 position-categories-alternate=true
-menu-width=478
-menu-height=531
+menu-width=539
+menu-height=494
 menu-opacity=100
 command-settings=xfce4-settings-manager
 show-command-settings=true

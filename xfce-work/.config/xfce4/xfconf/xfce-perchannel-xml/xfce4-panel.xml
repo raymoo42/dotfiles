@@ -19,6 +19,7 @@
         <value type="int" value="5"/>
         <value type="int" value="6"/>
         <value type="int" value="2"/>
+        <value type="int" value="1"/>
       </property>
     </property>
   </property>
@@ -29,13 +30,17 @@
       <property name="expand" type="bool" value="true"/>
       <property name="style" type="uint" value="0"/>
     </property>
-    <property name="plugin-4" type="string" value="pager"/>
+    <property name="plugin-4" type="string" value="pager">
+      <property name="rows" type="uint" value="1"/>
+      <property name="workspace-scrolling" type="bool" value="false"/>
+    </property>
     <property name="plugin-5" type="string" value="clock"/>
     <property name="plugin-6" type="string" value="systray">
       <property name="names-visible" type="array">
         <value type="string" value="netzwerk-manager-applet"/>
         <value type="string" value="xfce4-power-manager"/>
         <value type="string" value="taskmanager"/>
+        <value type="string" value="seapplet"/>
         <value type="string" value="bluetooth"/>
         <value type="string" value="dnfdragora-updater"/>
       </property>
@@ -46,5 +51,6 @@
     </property>
     <property name="plugin-8" type="string" value="systemload"/>
     <property name="plugin-9" type="string" value="whiskermenu"/>
+    <property name="plugin-1" type="string" value="battery"/>
   </property>
 </channel>
