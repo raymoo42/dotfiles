@@ -34,5 +34,6 @@
     <property name="CursorThemeName" type="string" value="default"/>
     <property name="CursorThemeSize" type="empty"/>
     <property name="DecorationLayout" type="empty"/>
+    <property name="IMModule" type="string" value="gtk-im-context-simple:xim"/>
   </property>
 </channel>

@@ -1,5 +1,5 @@
 favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,exo-mail-reader.desktop,exo-web-browser.desktop
-recent=exo-web-browser.desktop,exo-file-manager.desktop,exo-terminal-emulator.desktop
+recent=exo-file-manager.desktop,exo-web-browser.desktop,jetbrains-idea-ce.desktop,gparted.desktop,vmware-player.desktop,wireshark.desktop,vncviewer.desktop,system-config-printer.desktop,firefox.desktop,geany.desktop
 button-title=Anwendungen
 button-icon=webtorrent-desktop
 button-single-row=false

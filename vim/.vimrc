@@ -1,6 +1,6 @@
 set number
 set linebreak
-set showbreak=+++ 	
+set showbreak=+++
 set textwidth=100	
 set showmatch	
  
@@ -14,7 +14,6 @@ set shiftwidth=4
 set smartindent	
 set smarttab	
 set softtabstop=4	
- 
 set ruler	
  
 set undolevels=1000	
