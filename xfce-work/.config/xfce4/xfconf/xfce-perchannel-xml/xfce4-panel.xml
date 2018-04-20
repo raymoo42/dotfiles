@@ -40,6 +40,7 @@
         <value type="string" value="thunar"/>
         <value type="string" value="vlc"/>
         <value type="string" value="taskmanager"/>
+        <value type="string" value="redshift-gtk"/>
         <value type="string" value="dnfdragora-updater"/>
         <value type="string" value="seapplet"/>
         <value type="string" value="bluetooth"/>

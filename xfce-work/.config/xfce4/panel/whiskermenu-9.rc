@@ -1,5 +1,5 @@
 favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,exo-mail-reader.desktop,exo-web-browser.desktop
-recent=jetbrains-idea.desktop,exo-web-browser.desktop,exo-file-manager.desktop,seahorse.desktop,geany.desktop,java-1.8.0-openjdk-1.8.0.162-3.b12.fc27.x86_64-jconsole.desktop,exo-terminal-emulator.desktop,bsh-desktop.desktop,jetbrains-idea-ce.desktop,xfce4-screenshooter.desktop
+recent=redshift-gtk.desktop,exo-web-browser.desktop,jetbrains-idea.desktop,exo-file-manager.desktop,seahorse.desktop,geany.desktop,java-1.8.0-openjdk-1.8.0.162-3.b12.fc27.x86_64-jconsole.desktop,exo-terminal-emulator.desktop,bsh-desktop.desktop,xfce4-screenshooter.desktop
 button-title=Anwendungen
 button-icon=webtorrent-desktop
 button-single-row=false
@@ -19,8 +19,8 @@ display-recent-default=false
 position-search-alternate=true
 position-commands-alternate=false
 position-categories-alternate=true
-menu-width=554
-menu-height=528
+menu-width=552
+menu-height=493
 menu-opacity=100
 command-settings=xfce4-settings-manager
 show-command-settings=true
