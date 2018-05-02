@@ -44,14 +44,12 @@
       <property name="&lt;Control&gt;&lt;Alt&gt;Escape" type="string" value="xkill"/>
       <property name="Print" type="string" value="xfce4-screenshooter -f"/>
       <property name="XF86Display" type="string" value="xfce4-display-settings --minimal"/>
-      <property name="XF86Mail" type="string" value="exo-open --launch MailReader"/>
-      <property name="XF86WWW" type="string" value="exo-open --launch WebBrowser"/>
       <property name="override" type="bool" value="true"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;t" type="string" value="exo-open --launch TerminalEmulator"/>
       <property name="&lt;Alt&gt;i" type="string" value="passmenu"/>
       <property name="&lt;Alt&gt;d" type="string" value="dmenu_run"/>
       <property name="Super_L" type="string" value="/usr/bin/xfce4-popup-whiskermenu"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;l" type="string" value="dm-tool lock"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;l" type="string" value="i3lock -c 000000"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
