@@ -8,5 +8,7 @@
   <property name="last-window-height" type="int" value="573"/>
   <property name="last-window-maximized" type="bool" value="false"/>
   <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_SMALLER"/>
-  <property name="last-details-view-column-widths" type="string" value="50,138,50,50,331,50,50,74,242"/>
+  <property name="last-details-view-column-widths" type="string" value="50,138,50,50,382,50,50,81,172"/>
+  <property name="last-sort-column" type="string" value="THUNAR_COLUMN_NAME"/>
+  <property name="last-sort-order" type="string" value="GTK_SORT_ASCENDING"/>
 </channel>

@@ -42,6 +42,7 @@
         <value type="string" value="taskmanager"/>
         <value type="string" value="redshift-gtk"/>
         <value type="string" value="dnfdragora-updater"/>
+        <value type="string" value="shutter"/>
         <value type="string" value="seapplet"/>
         <value type="string" value="bluetooth"/>
         <value type="string" value="xfce4-power-manager"/>

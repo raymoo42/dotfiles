@@ -125,6 +125,9 @@ fi
 export GOPATH=~/.go
 export PATH=$PATH:$GOPATH/bin
 
+# Android
+export ANDROID_HOME=~/Android/Sdk
+
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="/home/stu/.sdkman"
 [[ -s "/home/stu/.sdkman/bin/sdkman-init.sh" ]] && source "/home/stu/.sdkman/bin/sdkman-init.sh"
