@@ -116,6 +116,11 @@ if ! shopt -oq posix; then
   fi
 fi
 
+# Load completion for kubectl
+if [ -x $( command -v kubectl ) ];then
+    source <(kubectl completion bash)
+fi
+
 # Load completion for openshift client binary
 if [ -x $( command -v oc ) ];then
     source <(oc completion bash)
