@@ -32,7 +32,6 @@
       <property name="XF86Calculator" type="empty"/>
     </property>
     <property name="custom" type="empty">
-      <property name="XF86Explorer" type="string" value="Thunar"/>
       <property name="&lt;Super&gt;p" type="string" value="xfce4-display-settings --minimal"/>
       <property name="&lt;Alt&gt;Print" type="string" value="xfce4-screenshooter -w"/>
       <property name="&lt;Alt&gt;F3" type="empty">
@@ -44,15 +43,11 @@
       </property>
       <property name="&lt;Control&gt;&lt;Alt&gt;Escape" type="string" value="xkill"/>
       <property name="Print" type="string" value="xfce4-screenshooter -f"/>
-      <property name="XF86Mail" type="string" value="exo-open --launch MailReader"/>
-      <property name="XF86WWW" type="string" value="exo-open --launch WebBrowser"/>
-      <property name="XF86Calculator" type="string" value="galculator"/>
       <property name="override" type="bool" value="true"/>
       <property name="Super_L" type="string" value="/usr/bin/xfce4-popup-whiskermenu"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;t" type="string" value="exo-open --launch TerminalEmulator"/>
       <property name="&lt;Alt&gt;i" type="string" value="passmenu"/>
       <property name="&lt;Alt&gt;d" type="string" value="dmenu_run"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;l" type="string" value="/usr/local/bin/lock-screen.sh"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">

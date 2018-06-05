@@ -1,6 +1,6 @@
 layout=1
-date_font=Bitstream Vera Sans 10
-time_font=Bitstream Vera Sans 10
+date_font=Bitstream Vera Sans 12
+time_font=Bitstream Vera Sans 12
 date_format=%d/%m/%Y
 time_format=%H:%M:%S
 

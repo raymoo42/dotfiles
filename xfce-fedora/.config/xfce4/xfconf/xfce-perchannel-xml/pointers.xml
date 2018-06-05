@@ -16,4 +16,9 @@
     <property name="Threshold" type="int" value="4"/>
     <property name="Acceleration" type="double" value="3.000000"/>
   </property>
+  <property name="ETPS2_Elantech_Touchpad" type="empty">
+    <property name="Properties" type="empty">
+      <property name="libinput_Tapping_Enabled" type="int" value="1"/>
+    </property>
+  </property>
 </channel>
