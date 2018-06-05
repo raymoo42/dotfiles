@@ -116,6 +116,11 @@ if ! shopt -oq posix; then
   fi
 fi
 
+# Load completion for kubectl
+if [ -x $( command -v kubectl ) ];then
+    source <(kubectl completion bash)
+fi
+
 # Load completion for openshift client binary
 if [ -x $( command -v oc ) ];then
     source <(oc completion bash)
@@ -124,6 +129,9 @@ fi
 # Golang
 export GOPATH=~/.go
 export PATH=$PATH:$GOPATH/bin
+
+# Android
+export ANDROID_HOME=~/Android/Sdk
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="/home/stu/.sdkman"
