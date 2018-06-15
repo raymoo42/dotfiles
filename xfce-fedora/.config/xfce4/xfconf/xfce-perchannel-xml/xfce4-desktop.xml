@@ -21,7 +21,7 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/usr/share/backgrounds/schroedinger-cat/default/wide/schroedinger-cat.jpg"/>
+          <property name="last-image" type="string" value="/home/stu/Bilder/Wallpaper/vaporwave.png"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
@@ -149,7 +149,7 @@
     </property>
   </property>
   <property name="last" type="empty">
-    <property name="window-width" type="int" value="679"/>
-    <property name="window-height" type="int" value="548"/>
+    <property name="window-width" type="int" value="726"/>
+    <property name="window-height" type="int" value="538"/>
   </property>
 </channel>

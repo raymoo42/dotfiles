@@ -1,8 +1,5 @@
 [Configuration]
 ColorForeground=#dcdcdc
-ColorBackground=#2c2c2c
-ColorCursor=#dcdcdc
-ColorPalette=#3f3f3f;#705050;#60b48a;#dfaf8f;#9ab8d7;#dc8cc3;#8cd0d3;#dcdcdc;#709080;#dca3a3;#72d5a3;#f0dfaf;#94bff3;#ec93d3;#93e0e3;#ffffff
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
 MiscBordersDefault=TRUE
@@ -30,7 +27,10 @@ MiscUseShiftArrowsToScroll=FALSE
 MiscSlimTabs=FALSE
 BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
 BackgroundDarkness=0,900000
-FontName=Monospace 11
+FontName=Liberation Mono 12
 MiscShowRelaunchDialog=TRUE
 MiscNewTabAdjacent=FALSE
+ColorBackground=#2c2c2c
+ColorCursor=#dcdcdc
+ColorPalette=#3f3f3f;#705050;#60b48a;#dfaf8f;#9ab8d7;#dc8cc3;#8cd0d3;#dcdcdc;#709080;#dca3a3;#72d5a3;#f0dfaf;#94bff3;#ec93d3;#93e0e3;#ffffff
 
