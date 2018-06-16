@@ -29,6 +29,9 @@ font pango:DejaVu Sans Mono 10
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
+# i3lock
+bindsym $mod+Control+l exec i3lock -c 000000
+
 # start a terminal
 bindsym $mod+Return exec sakura
 
